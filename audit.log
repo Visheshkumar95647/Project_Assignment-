@@ -1,0 +1,4 @@
+2026-07-23 09:15:21 | INFO | Email: user1@example.com  | Role: Customer | Registration Successful
+2026-07-23 09:18:44 | INFO | Email: user2@example.com  | Role: Customer | Registration Successful
+2026-07-23 09:22:10 | INFO | Email: owner1@example.com | Role: Owner    | Registration Successful
+2026-07-23 09:25:37 | INFO | Email: owner2@example.com | Role: Owner    | Registration Successful
